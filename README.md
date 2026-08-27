@@ -1,5 +1,6 @@
 # GRYPH OS — Hybrid AI Academic Operating System
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-black?style=flat-square&logo=vercel)](https://frontend-omega-gilt-47.vercel.app/onboarding)
 [![GDG Hacks 3](https://img.shields.io/badge/GDG%20Hacks%203-Hackathon%20Project-0284C7?style=flat-square)](https://devpost.com/software/gryph-os)
 [![Next.js](https://img.shields.io/badge/Next.js-14-black?style=flat-square&logo=next.js)](https://nextjs.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-Python%203.11-009688?style=flat-square&logo=fastapi)](https://fastapi.tiangolo.com/)

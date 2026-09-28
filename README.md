@@ -158,6 +158,12 @@ yarn start
 
 Open [http://localhost:3000](http://localhost:3000) in your browser.
 
+#### 3. Running Backend Tests
+```bash
+# Run pytest verification suite
+pytest backend_test.py
+```
+
 ---
 
 ## Authors & Contributors
